@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP АЛС314
+D 7-segmets indicator
+K LED
+$ENDCMP
+#
+#End Doc Library
