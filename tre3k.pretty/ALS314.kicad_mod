@@ -1,4 +1,4 @@
-(module ALS314 (layer F.Cu) (tedit 5D45B763)
+(module ALS314 (layer F.Cu) (tedit 5D46148F)
   (descr "7-sigments indicator")
   (tags LED)
   (fp_text reference DPY** (at 5.842 -5.55 90) (layer F.SilkS)
@@ -53,4 +53,9 @@
   (pad 8 smd rect (at 2 -11) (size 0.5 4.75) (layers F.Cu F.Paste F.Mask))
   (pad 9 smd rect (at 1 -11) (size 0.5 4.75) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at 0 -11) (size 0.5 4.75) (layers F.Cu F.Paste F.Mask))
+  (model :tre3k:ALS314.wrl
+    (offset (xyz -0.3 -0.9 0))
+    (scale (xyz 0.4 0.4 0.4))
+    (rotate (xyz 0 0 0))
+  )
 )
